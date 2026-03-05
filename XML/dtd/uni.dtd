@@ -1,0 +1,9 @@
+<!ELEMENT universidad (departamento+)>
+<!ATTLIST universidad nom CDATA #REQUIRED>
+<!ELEMENT departamento (nom,direccion,personal+)>
+<!ELEMENT direccion (nom,correo,despacho?)>
+<!ELEMENT personal (nom,correo+,despacho?,telefono?)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT correo (#PCDATA)>
+<!ELEMENT despacho (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>

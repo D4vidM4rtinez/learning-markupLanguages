@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comunidad>
+    <propietario id="001">
+        <nombre>Paco</nombre>
+        <direccion></direccion>
+        <iban></iban>
+    </propietario>
+    <propietario id="002">
+        <nombre></nombre>
+        <direccion></direccion>
+        <iban></iban>
+    </propietario>
+    <propietario id="003" cargo="presidente">
+        <nombre></nombre>
+        <direccion></direccion>
+        <iban></iban>
+    </propietario>
+    <propietario id="006">
+        <nombre></nombre>
+        <direccion></direccion>
+        <iban></iban>
+    </propietario>
+    <propietario id="007" cargo="secretario">
+        <nombre></nombre>
+        <direccion></direccion>
+        <iban></iban>
+    </propietario>
+</comunidad>

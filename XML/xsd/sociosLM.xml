@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<socios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="sociosLM.xsd">
+    <socio id="12">
+        <nombre>Andreu Perez</nombre>
+        <DNI>56565656X</DNI>
+        <fecha-nacimiento>1990-03-07</fecha-nacimiento>
+        <poblacion>Rubi</poblacion>
+        <equipo>junior</equipo>
+        <ranking>8.5</ranking>
+    </socio>
+    <socio id="7">
+        <nombre>Aina Casas</nombre>
+        <DNI>98989898L</DNI>
+        <fecha-nacimiento>1998-06-15</fecha-nacimiento>
+        <poblacion>Sabadell</poblacion>
+        <equipo>pro</equipo>
+        <ranking>9.7</ranking>
+    </socio>
+</socios>

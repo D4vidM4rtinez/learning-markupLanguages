@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lenguajes SYSTEM "dtd/GSF.dtd">
+<lenguajes>
+    <lenguaje codigo="l001" licencia="PSFL" año-lanzamiento="1991">
+        <nombre>python</nombre>
+        <creadores>
+            <creador>
+                <nombre>Guido van Rossum</nombre>
+            </creador>
+        </creadores>
+        <version-actual>3.14</version-actual>
+        <documentacion>https://docs.python.org/es/3/</documentacion>
+    </lenguaje>
+    <lenguaje codigo="l002" licencia="GNU" año-lanzamiento="1996">
+        <nombre>Java</nombre>
+        <creadores>
+            <creador>
+                <nombre>James Gosling</nombre>
+            </creador>
+        </creadores>
+        <version-actual>25</version-actual>
+        <documentacion>https://docs.oracle.com/en/java/</documentacion>
+    </lenguaje>
+    <lenguaje codigo="l003" licencia="ISO" año-lanzamiento="1983">
+        <nombre>C++</nombre>
+        <creadores>
+            <creador>
+                <nombre>Bjarne Stroustrup</nombre>
+            </creador>
+        </creadores>
+        <version-actual>23</version-actual>
+        <documentacion>https://isocpp.org/std/the-standard</documentacion>
+    </lenguaje>
+    <lenguaje codigo="l004" licencia="MIT" año-lanzamiento="1995">
+        <nombre>Javascript</nombre>
+        <creadores>
+            <creador>
+                <nombre>Brendan Eich</nombre>
+            </creador>
+        </creadores>
+        <version-actual></version-actual>
+        <documentacion></documentacion>
+    </lenguaje>
+    <lenguaje codigo="l005" licencia="Apache" año-lanzamiento="2012">
+        <nombre>Typescript</nombre>
+        <creadores>
+            <creador>
+                <nombre>Anders Hejlsberg</nombre>
+            </creador>
+        </creadores>
+        <version-actual>6.0</version-actual>
+        <documentacion>https://www.typescriptlang.org/docs/</documentacion>
+    </lenguaje>
+</lenguajes>

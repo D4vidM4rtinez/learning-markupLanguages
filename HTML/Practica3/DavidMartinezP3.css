@@ -1,0 +1,64 @@
+﻿.center_text {
+    text-align: center
+}
+
+html * {
+    font-family: "Roboto Mono", monospace;
+    font-style: normal;
+    text-align: justify;
+    font-size: large;
+    color: darkslategrey;
+}
+
+.margin {
+    width: 60%;
+    margin-inline: auto;
+    margin-bottom: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+.center_img {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+h3 {
+    margin-top: 50px;
+}
+h2 {
+    margin-top: 70px;
+}
+.important_stuff {
+    font-weight: bold;
+    color: black;
+}
+
+a:link {
+    color: #4B0082;
+    text-decoration: none;
+}
+a:visited {
+    color: #4B0082;
+    text-decoration: none;
+}
+a:hover {
+    color: #1DB954;
+}
+
+.button {
+    position: fixed;
+    bottom: 44px;
+    right: 44px; 
+    background-color: white;
+    border: 2px solid black;
+    color: green;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+#name {
+    color: #475ED1;
+}
+#top {}

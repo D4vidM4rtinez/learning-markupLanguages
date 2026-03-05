@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <llibre codigo="1" ISBN="9788401337208">
+        <titulo>El nombre del viento</titulo>
+        <editorial>Plaza &amp; Janes</editorial>
+        <edicion>01</edicion>
+        <paginas>880</paginas>
+        <autor>Patrick Rothfuss</autor>
+    </llibre>
+    <llibre codigo="2" ISBN="9788401339639">
+        <titulo>El temor de un hombre sabio</titulo>
+        <editorial>Plaza &amp; Janes</editorial>
+        <edicion>01</edicion>
+        <paginas>1200</paginas>
+        <autor>Patrick Rothfuss</autor>
+    </llibre>
+    <llibre codigo="3" ISBN="8419421006">
+        <titulo>The Ruination</titulo>
+        <editorial>MONTENA</editorial>
+        <edicion>01</edicion>
+        <paginas>448</paginas>
+        <autor>Anthony Reynolds</autor>
+    </llibre>
+    <llibre codigo="4" ISBN="9788323514275">
+        <titulo>A Game of Thrones</titulo>
+        <editorial>HarperCollins Voyager</editorial>
+        <edicion>02</edicion>
+        <paginas>694</paginas>
+        <autor>George R. R. Martin</autor>
+    </llibre>
+    <llibre codigo="5" ISBN="0-00-224585-X">
+        <titulo>A Clash of Kings</titulo>
+        <editorial>Bantam Spectra</editorial>
+        <edicion>10</edicion>
+        <paginas>761</paginas>
+        <autor>George R. R. Martin</autor>
+    </llibre>
+    <llibre codigo="6" ISBN="0-553-10663-5">
+        <titulo>A Storm of Swords</titulo>
+        <editorial>Bantam Spectra</editorial>
+        <edicion>08</edicion>
+        <paginas>973</paginas>
+        <autor>George R. R. Martin</autor>
+    </llibre>
+</biblioteca>

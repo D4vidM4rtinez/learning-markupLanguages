@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE universidad SYSTEM "dtd/uni.dtd">
+<universidad nom="Universidad Politécnica de Madrid">
+      <departamento>
+            <nom>Departamento de Ingeniería y Arquitecturas Telemáticas</nom>
+            <direccion>
+                  <nom>Lourdes López Santidrián</nom>
+                  <correo>llopez@diatel.upm.es</correo>
+                  <despacho>4312</despacho>
+            </direccion>
+            <personal>
+                  <nom>Justo Carracedo Gallardo</nom>
+                  <correo>carracedo@diatel.upm.es</correo>
+                  <correo>justo@diatel.upm.es</correo>
+            </personal>
+            <personal>
+                  <nom>Jesús Moreno Blázquez</nom>
+                  <correo>jmoreno@diatel.upm.es</correo>
+                  <despacho>4305</despacho>
+                  <telefono>+34 91 336 5510</telefono>
+            </personal>
+            <personal>
+                  <nom>Sara Lana Serrano</nom>
+                  <correo>slana@diatel.upm.es</correo>
+                  <despacho>4306</despacho>
+                  <telefono>+34 91 336 7821</telefono>
+            </personal>
+            <personal>
+                  <nom>Gregorio Rubio Cifuentes</nom>
+                  <correo>grubio@diatel.upm.es</correo>
+            </personal>
+            <personal>
+                  <nom>Manuel Álvarez Sol</nom>
+                  <correo>malvarez@diatel.upm.es</correo>
+                  <despacho>4307</despacho>
+            </personal>
+      </departamento>
+      <departamento>
+            <nom>Departamento de Ingeniería Audiovisual y Comunicaciones</nom>
+            <direccion>
+                  <nom>Rafael Herrandón Díez</nom>
+                  <correo>herrandon@diac.upm.es</correo>
+            </direccion>
+            <personal>
+                  <nom>Florentino Jiménez Muñoz</nom>
+                  <correo>fjimenez@diac.upm.es</correo>
+            </personal>
+      </departamento>
+      <departamento>
+            <nom>Sistemas Electrónicos y de Control</nom>
+            <direccion>
+                  <nom>Jesús Ma. Arriaga García de Andoaín</nom>
+                  <correo>jarriagua@sec.upm.es</correo>
+            </direccion>
+            <personal>
+                  <nom>Juan Blanco Cotano</nom>
+                  <correo>jblanco@sec.upm.es</correo>
+            </personal>
+      </departamento>
+</universidad>

@@ -1,0 +1,208 @@
+﻿<!DOCTYPE html>
+
+<html lang="ca">
+<head>
+    <meta charset="utf-8" />
+    <title>Horari i formulari taller</title>
+    <style>
+        html * {
+            font-family: sans-serif, Arial;
+        }
+        .center {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 4%;
+        }
+        .center_text{
+            text-align:center;
+        }
+        .forms {
+            width: 500px;
+            margin: 100px auto;
+            padding: 40px;
+            border: 2px solid #ccc;
+            background-color: #FFFFFF;
+        }
+        input[type=text]{
+            width:98%;
+        }
+        input[type=email]{
+            width:63%;
+        }
+        input[type=range]{
+            width:100%;
+        }
+        textarea{
+            width: 100%;
+        }
+        .telefono{
+            margin-left:280px;
+        }
+        td{
+            padding:10px;
+        }
+        th{
+            padding:10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <b>Autor: David Martinez Campos</b>
+    </header>
+    <section>
+        <table border="1" class="center">
+            <caption>
+                <h2>Horari del taller informatic</h2>
+            </caption>
+            <thead>
+                <tr style="height:50px;">
+                    <th scope="col">Hora</th>
+                    <th scope="col">Dilluns</th>
+                    <th scope="col">Dimarts</th>
+                    <th scope="col">Dimecres</th>
+                    <th scope="col">Dijous</th>
+                    <th scope="col">Divendres</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="height: 50px;">
+                    <th scope="row">8:00-11:00</th>
+                    <td colspan="2" class="center_text">Reparacions PC</td>
+                    <td class="center_text">Instal·lacions</td>
+                    <td colspan="2" rowspan="2" class="center_text">taller lliure</td>
+                </tr>
+                <tr style="height: 50px;">
+                    <th scope="row">11:00-14:00</th>
+                    <td colspan="2" class="center_text">Reparacions Portatils</td>
+                    <td class="center_text">Manteniment de Xarxes</td>
+                </tr>
+                <tr style="height: 50px;">
+                    <th scope="row">14:00-16:00</th>
+                    <td colspan="5" class="center_text">Taller tancat</td>
+                </tr>
+                <tr style="height: 50px; ">
+                    <th scope="row">16:00-18:00</th>
+                    <td colspan="5" class="center_text">Diagnostics avançats i proves de rendiment (benchmarks)</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr style="height: 50px;">
+                    <th scope="row" colspan="6" class="center_text"><a href="#solicitud">Fer una solicitud</a></th>
+                </tr>
+            </tfoot>
+            
+        </table>
+    </section>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <section>
+        <div id="solicitud" class="forms">
+            <form action="/submit-form" method="post" name="Solicitud de servei tecnic">
+                <h2 class="center_text">Sol·licitud de servei tècnic</h2>
+                <label for="name">Nom complet:</label>
+                <br />
+                <input type="text" id="name" name="name" required>
+                <br />
+                <br />
+                <label for="email">Email:</label>
+                <label for="tlf"><span class="telefono">Telefon:</span></label>
+                <br />
+                <input type="email" id="email" name="email" required />
+                <input type="tel" id="tlf" name="tlf" required />
+                <br />
+                <br />
+                <label for="servei">Tipus de servei:</label>
+                <br />
+                <input type="radio" id="reparacio" name="servei" required />
+                <label for="reparacio">Reparació</label>
+                <input type="radio" id="manteniment" name="servei" required />
+                <label for="manteniment">Manteniment</label>
+                <input type="radio" id="instalacio" name="servei" required />
+                <label for="instalacio">Instal·lació</label>
+                <br />
+                <br />
+                <label for="dispositiu">Dispositiu/s afectat:</label>
+                <br />
+                <input type="checkbox" id="PC" name="dispositiu"  />
+                <label type="checkbox" for="PC">Ordinador</label>
+                <input type="checkbox" id="portatil" name="dispositiu"  />
+                <label type="checkbox" for="portatil">Portatil</label>
+                <input type="checkbox" id="impresora" name="dispositiu"  />
+                <label type="checkbox" for="impresora">Impresora</label>
+                <input type="checkbox" id="xarxes" name="dispositiu"  />
+                <label type="checkbox" for="xarxes">Xarxes</label>
+                <br />
+                <br />
+                <label for="color">Color de l'equip:</label>
+                <br />
+                <input type="color" id="color" name="color" />
+                <br />
+                <br />
+                <label for="urgencia">Nivell d'urgencia: (de 1 a 5)</label>
+                <br />
+                <input type="range" id="urgencia" name="urgencia" min="1" max="5" required />
+                <br />
+                <br />
+                <label for="comentaris">Comentaris adicionals:</label>
+                <br />
+                <textarea id="comentaris" name="comentaris" rows="5" cols="50"></textarea>
+                <br />
+                <br />
+                <input type="submit" value="enviar" />
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <b>Autor: David Martinez Campos</b>
+        <br />
+        <b>&copy; David Martinez Campos, 29/10/25</b>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿.pare {
+    background-color: #D3D3D3;
+    padding: 20px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.pare div {
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.red {
+    background-color:red;
+    order:2;
+}
+
+.green {
+    background-color: green;
+    order:3;
+}
+
+.blue {
+    background-color: blue;
+    order:1;
+}

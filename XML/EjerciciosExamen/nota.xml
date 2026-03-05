@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="note.dtd" type="application/xml-dtd"?>
+<note>
+    <to>Ana Maria</to>
+    <from>Dolores</from>
+    <heading>HOLA</heading>
+    <body>blablablablablablablablablablabla</body>
+</note>

@@ -1,0 +1,37 @@
+﻿html{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin: 0px;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 4rem;
+  gap: 1rem;
+}
+#changeRiddle{
+  display: block;
+  margin: 1rem auto;
+}
+img{
+  width: 200px;
+}
+#result{
+  margin-top: 2rem;
+  text-align: center;
+  align-items: center;
+}
+.wrong{
+  background-color: #9c0000;
+  color:white
+}
+.correct{
+  background-color: lightgreen;
+  color: black;
+}
+.lose{
+  background-color: black;
+  color: white;
+}

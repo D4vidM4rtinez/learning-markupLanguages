@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comptes SYSTEM "dtd/comptes.dtd">
+<comptes>
+        <compte>
+                <copropietari>Pep Gómez</copropietari>
+                <xecs>
+                        <saldo>170.00</saldo>
+                        <transaccio>-100.00</transaccio>
+                        <transaccio>-500.00</transaccio>
+                        <carrecs>4.00</carrecs>
+                </xecs>
+        </compte>
+        <compte>
+                <copropietari>Pep Gómez</copropietari>
+                <copropietari>Paula Gómez</copropietari>
+                <estalvis>
+                        <saldo>5000.00</saldo>
+                        <interessos>212.50</interessos>
+                </estalvis>
+        </compte>
+        <compte>
+                <copropietari>Pep Gómez</copropietari>
+                <copropietari>Maria Espinar</copropietari>
+                <copropietari>Lluís Espinar</copropietari>
+                <xecs>
+                        <saldo>2330.00</saldo>
+                        <carrecs>66.00</carrecs>
+                </xecs>
+        </compte>
+        <compte>
+                <copropietari>Paula Gómez</copropietari>
+                <copropietari>Pau Ramis</copropietari>
+                <estalvis>
+                        <saldo>15000.00</saldo>
+                        <transaccio>250.00</transaccio>
+                        <transaccio>150.00</transaccio>
+                        <transaccio>700.00</transaccio>
+                        <interessos>1212.50</interessos>
+                </estalvis>
+        </compte>
+</comptes>

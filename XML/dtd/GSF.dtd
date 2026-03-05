@@ -1,0 +1,10 @@
+<!ELEMENT lenguajes (lenguaje+)>
+<!ELEMENT lenguaje (nombre,creadores,version-actual,documentacion)>
+<!ATTLIST lenguaje licencia (PSFL|MIT|GPL|BSD|Apache|GNU|ISO) #REQUIRED>
+<!ATTLIST lenguaje codigo ID #REQUIRED>
+<!ATTLIST lenguaje año-lanzamiento CDATA #REQUIRED>
+<!ELEMENT creadores (creador+)>
+<!ELEMENT creador (nombre)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT version-actual (#PCDATA)>
+<!ELEMENT documentacion (#PCDATA)>

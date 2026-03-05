@@ -1,0 +1,9 @@
+<!ELEMENT comptes (compte+)>
+<!ELEMENT compte (copropietari+,xecs?,estalvis?)>
+<!ELEMENT copropietari (#PCDATA)>
+<!ELEMENT xecs (saldo,transaccio*,carrecs+)>
+<!ELEMENT estalvis (saldo,transaccio*,interessos)>
+<!ELEMENT saldo (#PCDATA)>
+<!ELEMENT transaccio (#PCDATA)>
+<!ELEMENT carrecs (#PCDATA)>
+<!ELEMENT interessos (#PCDATA)>
