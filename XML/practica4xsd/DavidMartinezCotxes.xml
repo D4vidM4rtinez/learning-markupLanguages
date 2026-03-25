@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="DavidMartinezcotxes.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<concesionario>
+    <coche marca="honda" modelo="civic" n-puertas="5" matricula="1234ABC" cilindrada="1993" km="10000">
+        <propietario dni="12345678X"/>
+    </coche>
+    <coche marca="Rolls-Royce" modelo="Silver Dawn" n-puertas="4" matricula="4536BJC" cilindrada="4566" km="200000">
+        <propietario dni="41258796A"/>
+    </coche>
+
+    <coche marca="subaru" modelo="impreza" n-puertas="5" matricula="6549WTF" cilindrada="1600"/>
+
+    <coche marca="subaru" modelo="BRZ" n-puertas="3" matricula="8574ABC" cilindrada="2387" km="70000">
+        <propietario dni="12345678X"/>
+    </coche>
+
+    <coche marca="Rolls-Royce" modelo="Ghost" n-puertas="5" matricula="9999RGB" cilindrada="6749"/>
+</concesionario>
