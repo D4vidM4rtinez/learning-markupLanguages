@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE lenguajes SYSTEM "dtd/GSF.dtd">
+<!DOCTYPE lenguajes SYSTEM "GSF.dtd">
 <lenguajes>
     <lenguaje codigo="l001" licencia="PSFL" año-lanzamiento="1991">
         <nombre>python</nombre>
