@@ -1,0 +1,106 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet href="DAVID_MARTINEZ_practica2.xsl" type="text/xsl"?>
+<canal títol="NEXTFLIT">
+<copyright>Copyright © nexflit.com</copyright>
+<series>
+        <serie> 
+                  <nom>Paquita Salas</nom>
+                  <imagen tipus="jpg">images/PaquitaSalas.jpg</imagen>
+                  <descripció>
+                      Paquita Salas is a Spanish webserie, the first as scriptwriters and directors of  the Javis, Javier Calvo and Javier Ambrossi. This is a comic series that premiered through the Flooxer platform. Due to the good acceptance of the preview, the series also aired on the Neox channel. 
+                  </descripció>
+                  <tipus classe="comedy"></tipus>
+                  <origen pais="Spain"/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+        </serie>
+       <serie> 
+                  <nom>The Rain</nom>
+                  <imagen tipus="jpg">images/therain.jpg</imagen>
+                  <descripció>
+                            Six years after a terrible virus carried by the rain wiped out almost all humans in Scandinavia, two Danish siblings, Simone and Rasmus, emerge from the safety of their bunker to find all remnants of civilization gone. Soon they join a group of young survivors and together set out on a danger-filled quest through abandoned Scandinavia, searching for any sign of life
+                  </descripció>
+                  <tipus classe="thriller"></tipus>
+                  <origen pais="EEUU"/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+                  <capitol/>
+               
+        </serie>
+
+ 
+ 
+<serie> 
+        <nom>The end of the f***ing world</nom>
+        <imagen tipus="jpg">images/theEndOfTheF.jpg</imagen>
+        <descripció>
+        The programme follows James (Alex Lawther), a 17-year-old who believes himself to be a psychopath, and Alyssa (Jessica Barden), a rebellious classmate who sees in James a chance to escape from her tumultuous home life.
+        </descripció>
+        <tipus classe="drama"></tipus>
+       <origen pais="UK"/>
+        <capitol/>
+        <capitol/>
+        <capitol/>
+        <capitol/>
+        <capitol/>
+        <capitol/>
+</serie>
+<serie> 
+        <nom>Drácula</nom>
+        <imagen tipus="jpg">images/dracula.jpg</imagen>
+        <descripció>
+        In 1897 Transylvania, the blood-drinking Count draws his plans against Victorian London. Horror fiction.
+        </descripció>
+        <tipus classe="horror"></tipus>
+        <origen pais="EEUU"/>
+        <capitol/>
+        <capitol/>
+        <capitol/>
+        
+</serie>
+<serie> 
+                    <nom>La casa de papel</nom>
+                    <imagen tipus="jpg">images/lacasadepapel.jpg</imagen>
+                    <descripció>
+                  La Casa de Papel is a Spanish television series produced by Atresmedia in collaboration with Vancouver Productions.</descripció>
+                    <tipus classe="thriller"></tipus>
+                    <origen pais="Spain"/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                    <capitol/>
+                
+</serie>
+</series>
+</canal>
